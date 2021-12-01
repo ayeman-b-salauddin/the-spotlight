@@ -17,4 +17,10 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## What I've learned
+1) Using APIs to fetch data
+2) Styling with TailwindCSS
+3) Using Links to switch between pages
 
+## Potential
+Adding voice control capability to read the headlines and descriptions
