@@ -1,6 +1,6 @@
 ![news](https://i.ibb.co/wQ3BwJn/The-Spotlight.png)
 
-This is a [News App](https://spotlight-news.vercel.app/feed/1) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [`News App`](https://spotlight-news.vercel.app/feed/1) project bootstrapped with create-next-app.
 
 ## Getting Started
 First, install dependencies:
